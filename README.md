@@ -11,7 +11,7 @@ The fundamental building block of an Angular application: Components.
 Create a stateless aka presentational aka dumb component.
 
 ### Wireframe 
-![coin-info-prototype](img/coin-info.png)
+![coin-info-prototype](exercises/img/coin-info.png)
 1. Make a folder **components** in the **app/** folder
 2. Make a folder **coin-info-card** in the **app/components** folder
 3. Inside the **app/components/coin-info-card** folder make 3 files:
